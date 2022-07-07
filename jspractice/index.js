@@ -7,7 +7,7 @@ class Tab{
         this.add = this.main.querySelector('.tabadd');
         this.ul = this.main.querySelector('.fisrstnav ul:first-child');
         this.fsection = this.main.querySelector('.tabscon');
-
+        
         this.init();
     }
 
